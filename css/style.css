@@ -2159,8 +2159,8 @@ a.btn-gfort-image:hover {
 
 /* XSmall Padding
 ----------------------------------------------------------------------------- */
-.section-xs-padding > .section-container { padding: 10px 0 0px !important; }
-.social-section.section-xs-padding > .section-container { padding: 0px 0 !important; }
+.section-xs-padding > .section-container { padding: 30px 0 10px !important; }
+.social-section.section-xs-padding > .section-container { padding: 20px 0 !important; }
 
 
 /* NO Padding
